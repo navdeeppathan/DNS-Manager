@@ -17,14 +17,7 @@ DNS Manager is a web application designed to provide a central dashboard for aut
 - Backend API endpoints for CRUD operations on DNS records.
 - Secure user authentication and authorization.
 
-## Setup
 
-##Clone the repository:
-
-```bash
-git clone https://github.com/JyothiKumar03/AWS-Dashboard
-
-```
 
 Install dependencies:
 
